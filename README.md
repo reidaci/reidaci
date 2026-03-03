@@ -133,9 +133,9 @@ IT infrastructure maintenance and technical support across client environments
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reidaci&theme=dark&hide_border=true)](https://github.com/reidaci)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reidaci&layout=compact&theme=dark&hide_border=true)](https://github.com/reidaci)
+[![Top Languages](https://github-readme-stats-eight-amber-64.vercel.app/api/top-langs/?username=reidaci&layout=compact&theme=dark&hide_border=true)](https://github.com/reidaci)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reidaci&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/reidaci)
+[![GitHub Stats](https://github-readme-stats-eight-amber-64.vercel.app/api?username=reidaci&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/reidaci)
 
 </div>
 
