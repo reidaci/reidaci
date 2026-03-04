@@ -169,11 +169,11 @@ IT infrastructure maintenance and technical support across client environments
 
 ## 🌟 Key Highlights
 
-✅ **2.5+ years** of professional enterprise SPA development (Angular, TypeScript, Ionic)  
-✅ **~90% student completion rate** across full-stack JavaScript training cohorts  
+✅ **3+ years** of professional enterprise SPA development (Angular, TypeScript, Ionic)  
+✅ **50+ students trained** across full-stack JavaScript cohorts over the last 2 years  
+✅ **~90% student completion rate** through structured lessons, labs, and continuous support  
 ✅ **Enterprise process automation** using Google Apps Script and Node.js at scale  
 ✅ **AWS Certified** Cloud Practitioner with practical deployment experience  
-✅ **8+ students mentored** per cohort with end-to-end full-stack project delivery  
 ✅ **CI/CD pipeline automation** reducing time-to-production across projects  
 
 ---
