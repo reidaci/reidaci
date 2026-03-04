@@ -13,8 +13,8 @@ I'm a **Full-Stack JavaScript Developer** with extensive experience designing an
 **What drives me:**
 - 🎯 Building scalable, maintainable applications rooted in clean architecture principles
 - 🔧 Optimizing performance through lazy loading, RxJS patterns, and modular design
-- 📚 Sharing knowledge—my background as a JavaScript Trainer fuels my passion for explaining complex concepts clearly
-- 🌱 Continuous learning—exploring emerging technologies and best practices
+- 📚 Sharing knowledge - my background as a JavaScript Trainer fuels my passion for explaining complex concepts clearly
+- 🌱 Continuous learning - exploring emerging technologies and best practices
 - 🤝 Cross-functional collaboration with design, backend, and QA teams to deliver production-ready solutions
 
 ---
